@@ -1,0 +1,6 @@
+{
+  "name": "Medix AI",
+  "description": "Empathetic, knowledgeable AI medical assistant for symptom analysis, triage, health advice, and specialist recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
